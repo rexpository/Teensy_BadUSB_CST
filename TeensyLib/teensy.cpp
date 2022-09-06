@@ -1,5 +1,5 @@
 #include "WProgram.h"
-#include "paensy.h"
+#include "teensy.h"
 
 int delayAm;
 int morseDelay;

@@ -1,5 +1,5 @@
-#ifndef paensy_h
-#define paensy_h
+#ifndef teensy_h
+#define teensy_h
 #include "WProgram.h"
 
 extern int delayAm;
